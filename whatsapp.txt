@@ -7,3 +7,7 @@
 7   d.Attahments(Image,Audio,Video)code
 
 8   e.hiding the last seen
+
+9   f.adding the video call feature
+
+10  g.adding the audio call feature
